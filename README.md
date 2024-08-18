@@ -12,8 +12,8 @@
   </tr>
 </table>
 -->
-# Eli P. Fenichel
-## Knobloch Family Professor of Natural Resource Economics
+Eli P. Fenichel
+Knobloch Family Professor of Natural Resource Economics
 <a href="https://environment.yale.edu/directory/faculty/eli-fenichel"> Yale School of the Environment</a>
 
 
