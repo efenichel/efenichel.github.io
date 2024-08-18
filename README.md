@@ -14,10 +14,11 @@
 -->
 # Eli P. Fenichel
 ## Knobloch Family Professor of Natural Resource Economics
-<a href="https://environment.yale.edu/directory/faculty/eli-fenichel> Yale School of the Environment</a>
+<a href="https://environment.yale.edu/directory/faculty/eli-fenichel"> Yale School of the Environment</a>
+
 
 
 |  |  |
 |-------|-------------|
-| <img src = "https://github.com/efenichel/efenichel.github.io/blob/main/fenichel_eli_2023.jpg" width = "200"> | Eli P Fenichel.<br> Knobloch Family Professor of Natural Resource Economics.<br> Yale University.<br>  Yale School of the Environment.<br> <a href="https://scholar.google.com/citations?user=PTFuF2cAAAAJ&hl=en">Visit Google Scholar for publications</a>|
+| <img src = "https://github.com/efenichel/efenichel.github.io/blob/main/fenichel_eli_2023.jpg" width = "200"> |  <a href="https://scholar.google.com/citations?user=PTFuF2cAAAAJ&hl=en">Visit Google Scholar for publications</a>|
 
