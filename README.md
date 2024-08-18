@@ -1,2 +1,3 @@
-# efenichel.github.io
-Eli Fenichel's web page
+### Eli P. Fenichel, PhD
+## Knobloch Family Professor of Natural Resource Economics
+## Yale University
