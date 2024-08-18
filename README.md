@@ -6,6 +6,9 @@
       <p>Knobloch Family Professor of Natural REe source Economics</p>
       <p>Yale University</p>
       <p>Yale School of Environment</p>
+      <a href="[https://www.example.com](https://scholar.google.com/citations?user=PTFuF2cAAAAJ&hl=en)">Visit Google Scholar for publications</a>
+
+
     </td>
   </tr>
 </table>
