@@ -22,4 +22,6 @@
 ![headshot](fenichel_eli_2023_small1.jpg)
 
 
-
+|  |  |
+|-------|-------------|
+| <img src = "fenichel_eli_2023_small1.jpg" width = "200"> |  <a href="https://scholar.google.com/citations?user=PTFuF2cAAAAJ&hl=en">Visit Google Scholar for publications</a>|
