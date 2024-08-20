@@ -893,25 +893,25 @@ cnMvZG93bnJldi54bWxQSwUGAAAAAAQABADzAAAAkAUAAAAA
 src="try_2_files/image003.png" align=left hspace=12 vspace=5
 alt="Text Box: Eli P. Fenichel&#13;&#10;Knobloch Family Professor of Natural Resource Economics&#13;&#10;Yale School of the Environment&#13;&#10;"
 v:shapes="Text_x0020_Box_x0020_2"><![endif]><span style='font-size:12.0pt;
-font-family:"Times New Roman",serif'><span style='mso-tab-count:5'>                                                   </span><o:p></o:p></span></p>
+font-family:"Times New Roman",serif'><span style='mso-tab-count:5'>Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  </span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:171.0pt;margin-bottom:.0001pt;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>Prof. <span
-class=SpellE>Fenichel’s</span> <a
+class=SpellE>FenichelÂ’s</span> <a
 href="https://environment.yale.edu/directory/faculty/eli-fenichel">Yale School
 of the Environment</a> webpage<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:171.0pt;margin-bottom:.0001pt;line-height:normal'><span
 style='font-size:12.0pt;font-family:"Times New Roman",serif'>Prof. <span
-class=SpellE>Fenichel’s</span> publications on <a
+class=SpellE>FenichelÂ’s</span> publications on <a
 href="https://scholar.google.com/citations?user=PTFuF2cAAAAJ&amp;hl=en">Google
 Scholar</a><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0in;margin-right:0in;margin-bottom:0in;
 margin-left:171.0pt;margin-bottom:.0001pt;line-height:normal'><span
-style='font-size:12.0pt;font-family:"Times New Roman",serif'>Prof. Fenichel’ CV<o:p></o:p></span></p>
+style='font-size:12.0pt;font-family:"Times New Roman",serif'>Prof. FenichelÂ’ CV<o:p></o:p></span></p>
 
 </div>
 
