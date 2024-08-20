@@ -19,7 +19,7 @@
 
 <a href="fenichel_CV.pdf"> CV</a>
 
-![headshot](https://github.com/efenichel/efenichel.github.io/blob/main/fenichel_eli_2023_small1.jpg)
+![headshot](fenichel_eli_2023_small1.jpg)
 
 
 
