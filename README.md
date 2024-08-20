@@ -11,7 +11,7 @@
     </td>
   </tr>
 </table>
--->
+
 
 <a href="https://environment.yale.edu/directory/faculty/eli-fenichel"> Prof Fenichel's Yale School of the Environment website</a>
 
@@ -20,8 +20,8 @@
 <a href="fenichel_CV.pdf"> CV</a>
 
 ![headshot](fenichel_eli_2023_small1.jpg)
-
+-->
 
 |  |  |
 |-------|-------------|
-| <img src = "fenichel_eli_2023_small1.jpg" width = "200"> |  <a href="https://scholar.google.com/citations?user=PTFuF2cAAAAJ&hl=en">Visit Google Scholar for publications</a>|
+| <img src = "fenichel_eli_2023_small1.jpg" width = "200"> | <a href="https://scholar.google.com/citations?user=PTFuF2cAAAAJ&hl=en"> Prof Fenichel's Publications on Google Scholar</a>  <br> <a href="https://environment.yale.edu/directory/faculty/eli-fenichel"> Prof Fenichel's Yale School of the Environment website</a> <br> <a href="fenichel_CV.pdf"> CV</a>
