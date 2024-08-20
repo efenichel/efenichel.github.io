@@ -15,7 +15,7 @@
 
 <a href="https://environment.yale.edu/directory/faculty/eli-fenichel"> Prof Fenichel's Yale School of the Environment website</a>
 
-![headshot]("/fenichel_eli_2023_med.jpg")
+![headshot](https://github.com/efenichel/efenichel.github.io/blob/main/fenichel_eli_2023_med.jpg)
 
 |  |  |
 |-------|-------------|
